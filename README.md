@@ -45,10 +45,10 @@ The Excel dashboard includes:
 ## **Files in This Project**
 AstroSage_Project/
 │
-├── AstroSage_Analysis_Karthikeya.xlsx # Full analysis & interactive dashboard
-├── AstroSage_Answers_Karthikeya.docx # Answers to objective & subjective questions
-├── AstroSage_Presentation_Karthikeya.pptx # Final presentation
-└── README.md # files detailing
+├── AstroSage_Analysis_Karthikeya.xlsx       # Full analysis & interactive dashboard
+├── AstroSage_Answers_Karthikeya.docx        # Answers to objective & subjective questions
+├── AstroSage_Presentation_Karthikeya.pptx   # Final presentation
+└── README.md                                # Files detailing
 
 ## **Recommendations**
 Based on the analysis:
