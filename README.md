@@ -30,7 +30,7 @@ The Excel dashboard includes:
 - **Charts:** Daily/Hourly Call Trends, Website-wise Call Distribution, Guru Ratings, Consultation Type Revenue.
 - **Interactive Slicers:** For filtering by Month, Website, and Consultation Type.
 
-*(Attach 2–3 screenshots of the dashboard here if possible.)*
+*(You Can Check out my Dashboard in Excel File)*
 
 ---
 
