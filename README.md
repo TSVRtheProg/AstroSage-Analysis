@@ -11,7 +11,7 @@ The goal was to study **call patterns, agent performance, customer ratings, and 
 - Analyzed **daily and monthly call volumes**, **repeat callers**, and **consultation type revenue**.
 - Measured **agent performance** (calls per agent/day) and **customer satisfaction** (ratings).
 - Answered **14 objective** and **10 subjective questions** by using **pivot tables, charts, and Excel formulas**.
-- Built a **multi-page Excel dashboard** with slicers to allow dynamic filtering by **Month, Website, and Consultation Type**.
+- Built an **Excel dashboard** with slicers to allow dynamic filtering by **Month, Website, and Consultation Type**.
 
 ---
 
